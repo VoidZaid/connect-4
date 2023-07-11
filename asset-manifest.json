@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/connect-4/static/css/main.38a326cc.css",
+    "main.js": "/connect-4/static/js/main.f7b0a3a2.js",
+    "static/media/wallpaper.webp": "/connect-4/static/media/wallpaper.d87d311e68e1d93c0a02.webp",
+    "index.html": "/connect-4/index.html",
+    "main.38a326cc.css.map": "/connect-4/static/css/main.38a326cc.css.map",
+    "main.f7b0a3a2.js.map": "/connect-4/static/js/main.f7b0a3a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38a326cc.css",
+    "static/js/main.f7b0a3a2.js"
+  ]
+}
